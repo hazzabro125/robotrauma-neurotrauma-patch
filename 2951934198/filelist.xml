@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Robo-Trauma - Neurotrauma patch" steamworkshopid="2951934198" corepackage="false" modversion="1.11.3" gameversion="1.1.18.1" installtime="1698616772" expectedhash="E4283EF37902B0CAC6D4057229081763">
+  <Character file="%ModDir%/XML/Characters/Human/Human.xml" />
+  <Other file="%ModDir%/XML/Characters/Human/Ragdolls/HumanDefaultRagdoll.xml" />
+  <Item file="%ModDir%/XML/Items/items.xml" />
+  <Other file="%ModDir%/Images/Human/Human_female_mask.png" />
+  <Other file="%ModDir%/Images/Human/Human_male_mask.png" />
+  <Other file="%ModDir%/Images/Human/Human_female.png" />
+  <Other file="%ModDir%/Images/Human/Human_male.png" />
+  <Other file="%ModDir%/Lua/Autorun/init.lua" />
+  <Other file="%ModDir%/Lua/Scripts/humanupdate.lua" />
+  <Other file="%ModDir%/Lua/Scripts/items.lua" />
+  <Afflictions file="%ModDir%/XML/Afflictions.xml" />
+</contentpackage>
